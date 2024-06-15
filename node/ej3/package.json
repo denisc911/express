@@ -1,0 +1,19 @@
+{
+  "name": "ej3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "logplease": "^1.2.15"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.3"
+  },
+  "description": ""
+}

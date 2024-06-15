@@ -1,0 +1,16 @@
+{
+  "name": "Ejercicio-2",
+  "version": "1.0.0",
+  "main": "./ej2/index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "logplease": "^1.2.15"
+  }
+}
